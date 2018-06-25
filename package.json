@@ -1,6 +1,6 @@
 {
   "name": "@ag1/nil",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "nil (null or undefined) type",
   "main": "index.js",
   "author": "agent one co., ltd.",
