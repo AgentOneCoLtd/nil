@@ -1,8 +1,0 @@
-{
-  "extends": ["tslint-microsoft-contrib"],
-  "rules": {
-    "no-relative-imports": false,
-    "no-null-keyword": false,
-    "newline-per-chained-call": false
-  }
-}

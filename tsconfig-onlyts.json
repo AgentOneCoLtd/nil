@@ -2,12 +2,7 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "rootDir": "./src",
-    "outDir": "./lib-module",
-    "module": "esnext",
-    "target": "esnext",
-    "lib": ["esnext"],
-    "allowSyntheticDefaultImports": true,
-    "esModuleInterop": true,
+    "outDir": "./lib",
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
