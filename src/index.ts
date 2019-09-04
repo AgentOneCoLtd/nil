@@ -5,7 +5,7 @@ export type nil = null | undefined;
  * @param  val anything
  * @return     true if nil, else false
  */
-// tslint:disable-next-line no-any
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 export function isNil(val: any): val is nil {
     return val === null || val === undefined;
 }
