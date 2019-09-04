@@ -8,10 +8,7 @@
     "lib": ["esnext"],
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
-    "declaration": true,
-    "declarationMap": true,
-    "sourceMap": true,
-    "composite": true
+    "sourceMap": true
   },
   "exclude": ["**/*.spec.ts"]
 }
